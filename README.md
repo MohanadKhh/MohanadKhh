@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohanadkhh" alt="mohanadkhh" /></a> </p>
 
 - 🌱 I’m currently learning **Java Back-End developer and Docker**
-- ⚡ I’m have experience at **Embedded Systems - microcontroller Architecture**
+- ⚡ I’m have experience at **Embedded Systems - Microcontroller Architecture**
 
 - 📄 Know about my experiences (CV) [https://drive.google.com/drive/folders/1kmv7G8WE0xeWikVgoPTpt0WV91RLUJRf?usp=drive_link](https://drive.google.com/drive/folders/1kmv7G8WE0xeWikVgoPTpt0WV91RLUJRf?usp=drive_link)
 

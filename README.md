@@ -3,8 +3,7 @@
 <h4 align="center">ITI 9-Months Diploma Graduate</h4>
 <h4 align="center">Faculty of Engineering Ain Shames University</h4>
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohanadkhh" alt="mohanadkhh" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohanadkhh&label=Profile%20views&color=0e75b6&style=flat" alt="mohanadkhh" /> </p>
 
 - 🌱 I’m currently learning **Java Back-End developer and Docker**
 - ⚡ I’m have experience at **Embedded Systems - Microcontroller Architecture**

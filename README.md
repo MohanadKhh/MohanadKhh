@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohanad Khaled</h1>
 <h3 align="center">Junior FullStack Engineer</h3>
 <h4 align="center">ITI 9-Months Diploma Graduate</h4>
-<h4 align="center">Faculty of Engineering Ain Shames University</h4>
+<h4 align="center">Computer Department - Faculty of Engineering - Ain Shames University</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohanadkhh&label=Profile%20views&color=0e75b6&style=flat" alt="mohanadkhh" /> </p>
 
@@ -10,7 +10,7 @@
 - ⚡ **Front-End: Angular, Bootstrap, and Tailwind**
 - ⚡ **Business Intelligence: CRM, Power BI, and Microsoft Dynamics 365**
 
-- 📄 Know about my experiences (CV) [https://drive.google.com/drive/folders/1kmv7G8WE0xeWikVgoPTpt0WV91RLUJRf?usp=drive_link](https://drive.google.com/drive/folders/1kmv7G8WE0xeWikVgoPTpt0WV91RLUJRf?usp=drive_link)
+- 📄 Know about my experiences (CV) [CV Link](https://drive.google.com/drive/folders/1kmv7G8WE0xeWikVgoPTpt0WV91RLUJRf?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

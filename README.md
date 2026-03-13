@@ -10,7 +10,7 @@
 - ⚡ **Front-End: Angular, Bootstrap, and Tailwind**
 - ⚡ **Business Intelligence: CRM, Power BI, and Microsoft Dynamics 365**
 
-- 📄 Know about my experiences (CV) [CV Link](https://drive.google.com/drive/folders/1kmv7G8WE0xeWikVgoPTpt0WV91RLUJRf?usp=drive_link)
+- 📄 Know more about my experience (CV):  [CV Link](https://drive.google.com/drive/folders/1kmv7G8WE0xeWikVgoPTpt0WV91RLUJRf?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
